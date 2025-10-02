@@ -5,3 +5,8 @@ b=a+b
 a=b-a
 print("after swapping a :",a)
 print("after swapping b :",b)
+
+
+temp=a
+a=b
+b=temp
